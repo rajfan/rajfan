@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rafjan Shawon
+## Assalam mu alikum, Hi there 👋 I'm Rafjan Shawon
 
 🎯 **Aspiring Data Analyst | Skilled in PostgreSQL, Power BI, and Excel | Learning Python for Data Analysis**
 
