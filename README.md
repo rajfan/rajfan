@@ -31,9 +31,9 @@ Currently, I’m expanding my skills by learning **Python** to automate workflow
 
 ### 📫 How to Reach Me
 
-- ✉️ Email: [Your Email]
-- 🌐 LinkedIn: [Your LinkedIn Profile]
-- 📊 Portfolio / Website: [Your Website or Portfolio if available]
+- ✉️ Email: [rafjanshawon@gmail.com]
+- 🌐 LinkedIn: [www.linkedin.com/in/rafjan]
+
 
 ---
 
